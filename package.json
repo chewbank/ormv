@@ -1,5 +1,5 @@
 {
-  "name": "ormv",
+  "name": "@chewbank/ormv",
   "version": "3.2.7",
   "description": "Postgresql ORM，为简化JSON操作定制",
   "main": "lib/index.js",
@@ -8,7 +8,7 @@
     "validator": "^13.1.1"
   },
   "devDependencies": {
-    "typea": "^5.2.0"
+    "@chewbank/typea": "^5.2.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

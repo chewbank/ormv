@@ -1,7 +1,7 @@
 'use strict';
 
 const test = require('jmr');
-const typea = require('typea');
+const typea = require('@chewbank/typea');
 const { Ormv, model } = require('../../model/');
 
 const schema = typea([{
